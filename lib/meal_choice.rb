@@ -6,5 +6,5 @@ def meal_choice(veg1, veg2, protein = "meat")
 end
 
 
-meal_choice("carrots", "broccoli", "pork")
+meal_choice("carrots", "broccoli", "chicken")
 meal_choice("A plate of #{protein} with #{veg1} and #{veg2}.")
